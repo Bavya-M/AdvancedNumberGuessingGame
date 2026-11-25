@@ -141,3 +141,9 @@ Thanks for playing! Goodbye!
 
 ## License
 For educational and learning purposes.
+
+## Project Status
+
+Bavya M
+
+Advanced Number Guessing Game is developed as a Java-based mini project demonstrating random number generation, interactive gameplay, difficulty selection, input validation, and logical problem-solving through core Java programming concepts.
